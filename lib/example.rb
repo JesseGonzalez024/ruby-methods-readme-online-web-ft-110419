@@ -12,6 +12,8 @@ def greeting
   # puts phrase
   # puts phrase
   # puts phrase
+  
+  while 
 end
 
 greeting
