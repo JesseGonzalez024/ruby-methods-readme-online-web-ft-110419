@@ -13,7 +13,10 @@ def greeting
   # puts phrase
   # puts phrase
   
-  while 
+  times = 0
+  while 0 < 11 do
+    puts phrase
+    times += 1
 end
 
 greeting
